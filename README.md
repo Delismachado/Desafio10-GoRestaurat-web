@@ -8,8 +8,7 @@ Desenvolvida no desafio 10 do Bootcamp GoStack da Rocketseat.</p>
 
 ## Preview
 
-<p><a href="https://www.linkedin.com/posts/activity-6705149049177161728-kosi/">This link</a> has no
-title attribute.</p>
+<img src=".github/gorestaurant.png">
 
 ## :books: Guia de instalação e execução
 
