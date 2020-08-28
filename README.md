@@ -8,7 +8,7 @@ Desenvolvida no desafio 10 do Bootcamp GoStack da Rocketseat.</p>
 
 ## Preview
 
-<img src=".github/gorestaurant.png">
+<img src="src/gorestaurant.png">
 
 ## :books: Guia de instalação e execução
 
