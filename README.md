@@ -2,9 +2,10 @@
 
 ## :rocket: Sobre :rocket:
 
-<p> O GoRestaurant é uma aplicação ficticia em React.js que se trata de um painel de adm para restaurantes controlarem quais refeições estão disponíveis e quais estão indisponíveis.
+<p> O GoRestaurant é uma aplicação em React.js, junto com TypeScript, praticando o conceito de CRUD (Create, Read, Update, Delete). Trata-se de uma aplicação para restaurantes controlarem a disponibilidade das refeições disponíveis e indisponíveis.
 
-Desenvolvida no desafio 10 do Bootcamp GoStack da Rocketseat.</p>
+A aplicação foi desenvolvida no desafio 10 do Bootcamp GoStack da Rocketseat.
+</p>
 
 ## Preview
 
@@ -20,13 +21,13 @@ Desenvolvida no desafio 10 do Bootcamp GoStack da Rocketseat.</p>
 
 ### Como executar
 
-- Clone este repositório ```git clone https://github.com/nathaliacristina20/gorestaurant.git```
+- Clone este repositório ```git clone https://github.com/Delismachado/Desafio10-GoRestaurat-webt```
 - Vá até o diretório ```cd gorestaurant```
 - Execute ```yarn``` para instalar as dependências
 - Execute ```yarn start``` para rodar a aplicação
 - Em outro terminal, execute ```yarn json-server server.json -p 3333``` para executar a simulação de uma API
 
-Pronto! Você pode visualizar o GoRestaurant através do endereço http://localhost:3000
+Você pode visualizar o GoRestaurant através do endereço http://localhost:3000
 
 ### Testes
 
